@@ -1,6 +1,7 @@
 {
   "data": [
-    { "Id": 1, "ROCName": "Manchester", "OperationalAlarms": 0, "SystemAlarms":11, "Image": "assets/icon/manchester_roc_entrance_edit.jpg" },
-    { "Id": 2, "ROCName": "York", "OperationalAlarms": 1, "SystemAlarms":21, "Image": "assets/icon/york.jpg" }
+    { "Id": 1, "ROCName": "MANCHESTER ROC", "OperationalAlarms": 0, "SystemAlarms":11, "Image": "assets/icon/manchester_roc_entrance_edit.jpg" },
+    { "Id": 2, "ROCName": "YORK ROC", "OperationalAlarms": 1, "SystemAlarms":21, "Image": "assets/icon/york.jpg" },
+    { "Id": 3, "ROCName": "THREE BRIDGES ROC", "OperationalAlarms": 0, "SystemAlarms":11, "Image": "assets/icon/three.jpg" }
   ]  
 }
